@@ -1,0 +1,10 @@
+
+.idea/.gitignore
+.idea/dictionaries/
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/password_generator.iml
+.idea/vcs.xml
+mango.sqlite3
+venv/
